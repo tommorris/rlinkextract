@@ -30,6 +30,12 @@ And you'll get back HTML like this.
 
 RLinkExtract returns a Nokogiri document.
 
+## Installation
+
+```
+gem install rlinkextract
+```
+
 ## Dependencies
 
 * Nokogiri
