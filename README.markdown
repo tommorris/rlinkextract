@@ -1,5 +1,7 @@
 # RLinkExtract
 
+<a href="http://travis-ci.org/tommorris/rlinkextract" style="border: 0"><img src="https://secure.travis-ci.org/tommorris/rlinkextract.png" /></a>
+
 Automatically turn URLs and domain names in text and turn it into links.
 
 Implements a regular expression from [CASSIS](https://github.com/tantek/cassis).
