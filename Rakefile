@@ -6,3 +6,5 @@ Rake::TestTask.new(:test) do |test|
   test.libs << 'lib' << 'test'
   test.pattern = 'test/*.rb'
 end
+
+task :default => [:test]
